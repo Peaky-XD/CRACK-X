@@ -1,1 +1,2 @@
-import RANDOM
+import os
+os.system("git pull")
