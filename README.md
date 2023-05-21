@@ -1,5 +1,6 @@
 # RANDOM-PRO
-<h1 style="color:green">DAILY UPDATE RANDOM CLONING<h1>
+
+<h2> VERSION - 0.4</h2>
 <br>
 • rm -rf RANDOM-PRO
 <br>
@@ -11,4 +12,3 @@
 <br>
 • ./ranc
 <br>
-##Stay With Team Peaky-XD
