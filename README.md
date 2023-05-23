@@ -1,6 +1,6 @@
 # RANDOM-PRO
 
-<h2> VERSION - 0.5</h2>
+<h2> VERSION - 0.6</h2>
 <br>
 • rm -rf RANDOM-PRO
 <br>
