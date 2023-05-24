@@ -1,6 +1,6 @@
 # RANDOM-PRO
 
-<h2> VERSION - 0.6</h2>
+<h2> VERSION - 0.7</h2>
 <br>
 <h3> APPROVAL ADDED</h2>
 <br>
