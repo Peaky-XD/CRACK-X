@@ -1,9 +1,8 @@
 # RANDOM-PRO
 
-<h2> VERSION - 0.8</h2>
+<h2> VERSION - 0.9</h2>
 <br>
-<h4>LOCK REMOVED</h4>
-<h3> APPROVAL ADDED</h2>
+<h3>LOCK REMOVED</h4>
 <br>
 • rm -rf RANDOM-PRO
 <br>
