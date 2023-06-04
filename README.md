@@ -1,6 +1,6 @@
 # RANDOM-PRO
 
-<h2> VERSION - 0.1.1</h2>
+<h2> VERSION - 0.1.2</h2>
 <br>
 <h3>LOCK REMOVED</h4>
 <br>
