@@ -12,5 +12,5 @@
 <br>
 • chmod +x *
 <br>
-• ./ranc
+• ./indc
 <br>
