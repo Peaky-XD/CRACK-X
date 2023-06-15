@@ -4,13 +4,21 @@
 <br>
 <h3>LOCK REMOVED</h4>
 <br>
-• rm -rf RANDOM-PRO
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+$ rm -rf RANDOM-PRO
 <br>
-• git clone https://github.com/Peaky-XD/CRACK-X
+$ git clone https://github.com/Peaky-XD/CRACK-X
 <br>
-• cd CRACK-X
+$ cd CRACK-X
 <br>
-• chmod +x *
+$ chmod +x *
+$ ranc
+
+
+
+
 <br>
-• ./indc
-<br>
+
+
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/ima
