@@ -13,7 +13,7 @@ $ cd CRACK-X
 <br>
 $ chmod +x *
 <br>
-$ ./ranc
+$ ./crackx
 <br>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <h4>CRACK-X IS A INTERESTING TOOL<br>FOR RANDOM FACEBOOK ACCOUNT CLONING ...</h4>
