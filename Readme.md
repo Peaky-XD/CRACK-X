@@ -5,7 +5,7 @@
 <h3>LOCK REMOVED</h4>
 <br>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-$ rm -rf RANDOM-PRO
+$ rm -rf CRACK-X
 <br>
 $ git clone https://github.com/Peaky-XD/CRACK-X
 <br>
