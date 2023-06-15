@@ -1,4 +1,4 @@
-# RANDOM-PRO
+# CRACK-X
 
 <h2> VERSION - 0.1.2</h2>
 <br>
@@ -6,9 +6,9 @@
 <br>
 • rm -rf RANDOM-PRO
 <br>
-• git clone https://github.com/Peaky-XD/RANDOM-PRO
+• git clone https://github.com/Peaky-XD/CRACK-X
 <br>
-• cd RANDOM-PRO
+• cd CRACK-X
 <br>
 • chmod +x *
 <br>
